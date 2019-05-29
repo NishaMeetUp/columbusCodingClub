@@ -32,6 +32,7 @@ def main():
     #function call calls another function for list
     orderTotal = calculate(orderQty())
 
+    #uses variable order total to print answer from function call
     print("Your total is ", orderTotal)
 
 main()

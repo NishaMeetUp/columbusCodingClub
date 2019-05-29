@@ -22,10 +22,10 @@ Example (user input highlighted in gray and in bold text):
 Welcome to Bill’s Blue Burgers!
 
 Menu:
-Beef Blue Burger					$3.90
+Beef Blue Burger				$3.90
 Turkey Blue Burger 				$3.45
 Vegie Blue Burger 				$2.50
-Drink and fries 					$4.23 for each burger
+Drink and fries 				$4.23 for each burger
 
 How many Beef Blue Burgers would you like? 2
 How many Turkey Blue Burger would you like? 1
